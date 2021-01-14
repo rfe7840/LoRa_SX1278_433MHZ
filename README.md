@@ -13,6 +13,10 @@ Serial communication with LoRa_SX1278 chip in Python
 For easy serial communication just cross out TX and RX line and put M0 and M1 Pin to GND and do as follow:
 ![alt text](https://github.com/rfe7840/LoRa_SX1278_433MHZ/blob/main/1_lora_sx1278_433mhz.jpg)
 
+## Example Code
+
+* will follow soon
+
 
 
 
