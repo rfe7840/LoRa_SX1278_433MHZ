@@ -1,8 +1,8 @@
 <project title="" folioSheetQuantity="0" version="0.70">
     <properties>
         <property show="1" name="savedfilepath">D:/GIT/Stromlaufplan/LORASX1278/LORASX1278.qet</property>
-        <property show="1" name="savedtime">15:35</property>
-        <property show="1" name="saveddate">2021-01-14</property>
+        <property show="1" name="savedtime">15:51</property>
+        <property show="1" name="saveddate">14.01.2021</property>
         <property show="1" name="savedfilename">LORASX1278</property>
     </properties>
     <newdiagrams>
