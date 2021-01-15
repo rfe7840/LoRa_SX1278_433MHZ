@@ -16,7 +16,7 @@ For easy serial communication just cross out TX and RX line and put M0 and M1 Pi
 
 ## Example Code
 
-I had the test programm only on a windows device. I used therefore the FTDI FT232RL chip. I used to short programms. 
+I had the test programm only on a windows device.(on ESP32[with micropython] and Raspberry code will follow soon) I used therefore the FTDI FT232RL chip. I used two short programms. 
 One program for sending and one for recieving.
 Reciever Programm:
 ```
